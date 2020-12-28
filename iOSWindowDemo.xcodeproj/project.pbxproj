@@ -16,6 +16,7 @@
 		6578A1C32599B230003FA172 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6578A1C22599B230003FA172 /* main.m */; };
 		6578A1CD2599B232003FA172 /* iOSWindowDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6578A1CC2599B232003FA172 /* iOSWindowDemoTests.m */; };
 		6578A1D82599B232003FA172 /* iOSWindowDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6578A1D72599B232003FA172 /* iOSWindowDemoUITests.m */; };
+		6578A1E92599B320003FA172 /* iOS-UIWindow详解 - 简书.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 6578A1E82599B320003FA172 /* iOS-UIWindow详解 - 简书.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		6578A1D32599B232003FA172 /* iOSWindowDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOSWindowDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6578A1D72599B232003FA172 /* iOSWindowDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOSWindowDemoUITests.m; sourceTree = "<group>"; };
 		6578A1D92599B232003FA172 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6578A1E82599B320003FA172 /* iOS-UIWindow详解 - 简书.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "iOS-UIWindow详解 - 简书.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 		6578A1AF2599B223003FA172 /* iOSWindowDemo */ = {
 			isa = PBXGroup;
 			children = (
+				6578A1E82599B320003FA172 /* iOS-UIWindow详解 - 简书.pdf */,
 				6578A1B02599B223003FA172 /* AppDelegate.h */,
 				6578A1B12599B223003FA172 /* AppDelegate.m */,
 				6578A1B32599B223003FA172 /* SceneDelegate.h */,
@@ -240,6 +243,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6578A1C02599B230003FA172 /* LaunchScreen.storyboard in Resources */,
+				6578A1E92599B320003FA172 /* iOS-UIWindow详解 - 简书.pdf in Resources */,
 				6578A1BD2599B230003FA172 /* Assets.xcassets in Resources */,
 				6578A1BB2599B223003FA172 /* Main.storyboard in Resources */,
 			);
